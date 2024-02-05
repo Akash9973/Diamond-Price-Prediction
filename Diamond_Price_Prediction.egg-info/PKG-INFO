@@ -5,3 +5,4 @@ Author: Akash Roy
 Author-email: akashroyjan@gmail.com
 Requires-Dist: numpy
 Requires-Dist: pandas
+Requires-Dist: seaborn
